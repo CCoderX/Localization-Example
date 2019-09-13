@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  localizationApp
+
+  Created by user on 8/31/19.
+  Copyright © 2019 user. All rights reserved.
+*/
+"OK" = "OKFr";
+"Cancel" = "CancelFr";
+"Hi" = "HiFr";
